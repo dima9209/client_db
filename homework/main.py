@@ -1,5 +1,4 @@
 import psycopg2 as ps
-import inspect
 
 
 def client_existing(cur, client_id):
